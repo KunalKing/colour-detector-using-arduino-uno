@@ -13,10 +13,10 @@ Structure and working -
   colours red, blue, green and it also has a separate white light detector. Since any colour can be 
   created from different levels of this primary colours. The unit can tell you the colour composition of 
   a  light source.
--The four LEDs on the sensor board are there to illuminate the subjects with an even light source --- 
- making it easier to get a light measurement.
--The UNO here send a signal to the module to detect colours and the data received by the module is 
- shown in the 16*2 LCD connected to it. The UNO detects three-colour intensities separately and 
- shows them on LCD.
+- The four LEDs on the sensor board are there to illuminate the subjects with an even light source --- 
+  making it easier to get a light measurement.
+- The UNO here send a signal to the module to detect colours and the data received by the module is 
+  shown in the 16*2 LCD connected to it. The UNO detects three-colour intensities separately and 
+  shows them on LCD.
 
 Technology used - Arduino UNO R3, TCS3200 colour sensor, 16x2 LCD module, breadboard, C, C++
